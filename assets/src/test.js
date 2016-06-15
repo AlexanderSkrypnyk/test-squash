@@ -1,3 +1,5 @@
-/**
- * Created by alex on 6/15/16.
- */
+function sum(x, y) {
+	return x + y;
+}
+
+console.log(sum(1,3));
